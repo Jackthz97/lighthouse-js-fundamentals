@@ -1,9 +1,11 @@
-// const sayHello  = function () {
-//   console.log("Hello, world");
-// }
+/*const sayHello  = function () {
+  console.log("Hello, world");
+}
 
-// sayHello();
+sayHello();
+*/
 
+/*
 const sayHello  = function (name) {
   console.log("Hello, " + name);
 }
@@ -11,3 +13,20 @@ const sayHello  = function (name) {
 sayHello("Jack");
 sayHello("Charles");
 sayHello("Calvin");
+*/
+
+// const sayHelloToConsole  = function (name) {
+//   console.log("Hello, " + name);
+// }
+// sayHelloToConsole('John'); 
+
+// const returnSayHello  = function (name) {
+//   return "Hello, " + name;
+// }
+// const greeting = returnSayHello('John');
+
+const returnSayHello  = function (name) {
+  return "Hello, " + name;
+}
+const greeting = returnSayHello('John');
+console.log(greeting);
