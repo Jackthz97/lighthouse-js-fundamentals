@@ -21,3 +21,5 @@ const finalPosition = function (moves) {
   return array;
 }
 console.log(finalPosition(moves));
+
+//Passed
