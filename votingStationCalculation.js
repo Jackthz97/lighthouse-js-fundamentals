@@ -13,4 +13,4 @@ const chooseStations = function (stations) {
   return goodStations;
 }
 console.log(chooseStations(stations));
-//completed
+//Passed
