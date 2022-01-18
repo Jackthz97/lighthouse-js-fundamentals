@@ -13,3 +13,5 @@ function range(x,y,z){
 console.log(range(0, 8, 2));
 console.log(range(10, 30, 5));
 console.log(range(-9, 3, 3));
+
+//Passed
